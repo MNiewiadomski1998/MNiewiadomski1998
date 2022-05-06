@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Miłosz Niewiadomski
+- 🌱 I’m currently learning Python, more specifically: Django.
+- 📫 How to reach me: milosz.niewiadomski1998@gmail.com
